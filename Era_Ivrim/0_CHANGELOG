@@ -1,8 +1,33 @@
-
-		  -----= ERA IVRIM =-----
 			 CHANGELOG
+________________________________________________________________________________
+Ivrim 	:
+Ivrim is the name of a faction and a subgroup within. The word actually comes from "ivri" meaning from the other side [of the river], ~im being the plural form. Imagine, that they mostly fight with bronze weaponry, for iron is rather expensive. 
+________________________________________________________________________________
 
 
+
+Version 1.9.0
+ = some minor edits to make fit for 'The Levante Confederation'
+ = ad dependency 'The Golden South Era'
+ = changed server icon 
+
+Version 1.1.3
+ = some edits in unit descriptions
+ = downsized values in chol birds
+
+Version 1.1.2
+ = errors & typos & warnings
+
+Version 1.1.1
+ = minor edits: unit costs up
+
+Version 1.1.0
+ = minor edits in usage=healer/scout 
+
+Version 1.0.0
+ = first stable release
+
+...
 
 Version 0.4.3-beta
  = minor edits
