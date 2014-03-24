@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_Ivrim-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:08+0100\n"
+"POT-Creation-Date: 2014-03-24 04:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,7 +16,7 @@ msgid "EIv"
 msgstr ""
 
 #. [era]: id=TIVRIM
-#: ./Era_Ivrim/_main.cfg:60
+#: ./Era_Ivrim/_main.cfg:59
 msgid "Default + Ivrim"
 msgstr ""
 
@@ -51,7 +51,7 @@ msgid "Summoned Chol bird, trainee"
 msgstr ""
 
 #. [unit_type]: id=chol_summoned, race=chol
-#: ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:25
+#: ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:26
 msgid ""
 "The Chol bird can be called by special levite chant. The bird then somehow attaches himself to that singing levite, binds to him as his master and can be commanded by holy chanting to function as a scout. The Chol will transmit information by flying and moving in special ways, in the shape of letters, to inform his levite master. The Chol is a hidden bird, normaly it would fly very high, stealth and quick, making it somewhat safe from enemy weaponry.\n"
 "\n"
@@ -61,12 +61,12 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:45 ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:56 ./Era_Ivrim/units/chol/sc1_chol.cfg:46 ./Era_Ivrim/units/chol/sc1_chol.cfg:57 ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:46 ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:57
+#: ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:46 ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:57 ./Era_Ivrim/units/chol/sc1_chol.cfg:46 ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:47 ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:58
 msgid "fire-claws"
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:67 ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:78 ./Era_Ivrim/units/chol/sc1_chol.cfg:68 ./Era_Ivrim/units/chol/sc1_chol.cfg:79 ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:68 ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:79
+#: ./Era_Ivrim/units/chol/sc0_chol_summoned.cfg:68 ./Era_Ivrim/units/chol/sc1_chol.cfg:57 ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:69
 msgid "beak"
 msgstr ""
 
@@ -91,7 +91,7 @@ msgid "Summoned Chol bird, elder"
 msgstr ""
 
 #. [unit_type]: id=elder_chol_summoned, race=chol
-#: ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:26
+#: ./Era_Ivrim/units/chol/sc1_elder_chol_summoned.cfg:27
 msgid ""
 "This elder Chol bird is experienced in it's job to function as a scout in the field. The bonds to it's master have become more strong and solid, too, making it a formidable flying recon unit in the ivrim defense forces. \n"
 "\n"
@@ -126,19 +126,28 @@ msgid "Golem Katan"
 msgstr ""
 
 #. [unit_type]: id=golem_katan, race=golem
-#. [unit_type]: id=kabbalahed_golem_katan, race=golem
-#: ./Era_Ivrim/units/golems/e1_golem_katan.cfg:11 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan.cfg:11
-msgid "Young Clay Golems are bodies of earthen clay spirited by ivrim verse on small parchment stripes that is typically placed in the mouth of it, like a programming code. This animates their bodies. They are not fast and the shear mass of them can absorb quite a bit of damage. These creatures are big, but kabbalist of higher spirituality can even animate bigger golems. They can defend, guard a person and secure a retreat. They are designed to fight best at night, to hold off night creatures and the dark forces of evil and death."
+#: ./Era_Ivrim/units/golems/e1_golem_katan.cfg:11
+msgid "Fresh Golem Katans (small golems) are humanoid bodies of earthen clay spirited by ivrim verse on small parchment stripes that is typically placed in the mouth of it, like a programming code. This animates their bodies. They are not fast and the shear mass of them can absorb quite a bit of damage. These creatures are impressive, but kabbalist of higher spirituality can even animate bigger golems. They can defend, guard a person and secure a retreat. They are designed to fight best at night, to hold off night creatures and the dark forces of evil and death."
 msgstr ""
 
 #. [attack]: type=arcane
-#: ./Era_Ivrim/units/golems/e1_golem_katan.cfg:42 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan.cfg:42 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan_aged.cfg:43 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem.cfg:42 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem_aged.cfg:43 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem.cfg:42 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem_aged.cfg:42
+#: ./Era_Ivrim/units/golems/e1_golem_katan.cfg:48 ./Era_Ivrim/units/golems/e1_golem_katan_aged.cfg:47 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan.cfg:48 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan_aged.cfg:48 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem.cfg:48 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem_aged.cfg:47 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem.cfg:48 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem_aged.cfg:47
 msgid "golemfist"
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Era_Ivrim/units/golems/e1_golem_katan.cfg:53 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan.cfg:53 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan_aged.cfg:54 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem.cfg:51 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem_aged.cfg:55 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem.cfg:53 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem_aged.cfg:54
+#: ./Era_Ivrim/units/golems/e1_golem_katan.cfg:59 ./Era_Ivrim/units/golems/e1_golem_katan_aged.cfg:58 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan.cfg:59 ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan_aged.cfg:59 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem.cfg:57 ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem_aged.cfg:59 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem.cfg:59 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem_aged.cfg:59
 msgid "thrown rock"
+msgstr ""
+
+#. [unit_type]: id=golem_katan_aged, race=golem
+#: ./Era_Ivrim/units/golems/e1_golem_katan_aged.cfg:8
+msgid "Aged Golem Katan"
+msgstr ""
+
+#. [unit_type]: id=golem_katan_aged, race=golem
+#: ./Era_Ivrim/units/golems/e1_golem_katan_aged.cfg:11
+msgid "This golem is time-worn by it's extended use, but still difficult to come by. It has become more vulnerable to attacks by fire, cold and arcane, though."
 msgstr ""
 
 #. [unit_type]: id=kabbalahed_golem_katan, race=golem
@@ -146,15 +155,19 @@ msgstr ""
 msgid "Kabbalahed Golem Katan, young"
 msgstr ""
 
+#. [unit_type]: id=kabbalahed_golem_katan, race=golem
+#: ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan.cfg:11
+msgid "Young Clay Golems are bodies of earthen clay spirited by ivrim verse on small parchment stripes that is typically placed in the mouth of it, like a programming code. This animates their bodies. They are not fast and the shear mass of them can absorb quite a bit of damage. These creatures are big, but kabbalist of higher spirituality can even animate bigger golems. They can defend, guard a person and secure a retreat. They are designed to fight best at night, to hold off night creatures and the dark forces of evil and death."
+msgstr ""
+
 #. [unit_type]: id=kabbalahed_golem_katan_aged, race=golem
 #: ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan_aged.cfg:8
 msgid "Kabbalahed Golem Katan, old"
 msgstr ""
 
-#. [unit_type]: id=kabbalahed_earth_golem_aged, race=golem
 #. [unit_type]: id=kabbalahed_golem_katan_aged, race=golem
-#: ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan_aged.cfg:11 ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem_aged.cfg:11
-msgid "This old golem is hulky and time-worn by it's extended use."
+#: ./Era_Ivrim/units/golems/se1_kabbalahed_golem_katan_aged.cfg:11
+msgid "This old kabbalahed golem is time-worn by it's extended use, but still difficult to come by. It has become more vulnerable to attacks by fire, cold and arcane, though."
 msgstr ""
 
 #. [unit_type]: id=kabbalahed_bigclay_golem, race=golem
@@ -174,7 +187,7 @@ msgstr ""
 
 #. [unit_type]: id=kabbalahed_bigclay_golem_aged, race=golem
 #: ./Era_Ivrim/units/golems/se2_kabbalahed_clay_golem_aged.cfg:11
-msgid "This old big clay golem is time-worn by it's extended use, but still tough to come by."
+msgid "This old kabbalahed clay golem is time-worn by it's extended use, but still tough to come by. It has become more vulnerable to attacks by fire, cold and arcane, though."
 msgstr ""
 
 #. [unit_type]: id=kabbalahed_earth_golem, race=golem
@@ -190,6 +203,11 @@ msgstr ""
 #. [unit_type]: id=kabbalahed_earth_golem_aged, race=golem
 #: ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem_aged.cfg:8
 msgid "Kabbalahed old Earth Golem"
+msgstr ""
+
+#. [unit_type]: id=kabbalahed_earth_golem_aged, race=golem
+#: ./Era_Ivrim/units/golems/se3_kabbalahed_earth_golem_aged.cfg:11
+msgid "This old kabbalahed earth golem is hulky and time-worn by it's extended use, but still very tough to come by.. It has become more vulnerable to attacks by fire, cold and arcane, though."
 msgstr ""
 
 #. [race]: id=ivrim
@@ -219,7 +237,7 @@ msgstr ""
 
 #. [unit_type]: id=ivri, race=ivrim
 #: ./Era_Ivrim/units/ivrim/0_ivri.cfg:8
-msgid "Peasant"
+msgid "Peasant Ivri"
 msgstr ""
 
 #. [unit_type]: id=ivri, race=ivrim
@@ -259,7 +277,7 @@ msgstr ""
 
 #. [unit_type]: id=hasmonee_abir, race=ivrim
 #: ./Era_Ivrim/units/ivrim/a2_hasmonee_abir.cfg:41
-msgid "Sometimes a Hasmonee Abir soldier chooses to follow the path of learning divineinformation, instead of fighting exercises. Abir meaning knight or brave one. The ivrim defense forces have a special program to facilitate their needs. They will become much more learned and later can upgrade to an Abir gadol (grand knight), which practice the Abir-Qesheth warrior tradition professionally."
+msgid "Sometimes a Hasmonee Abir soldier chooses to follow the path of learning divineinformation, instead of intensive fighting exercises. Abir meaning knight or brave one. The ivrim defense forces have a special program to facilitate their needs. They will become much more learned and later can upgrade to an Abir gadol (grand brave), which practices the Abir-Qesheth warrior tradition professionally."
 msgstr ""
 
 #. [attack]: type=arcane
@@ -280,7 +298,7 @@ msgstr ""
 
 #. [unit_type]: id=hasmonee_rasab, race=ivrim
 #: ./Era_Ivrim/units/ivrim/a2_hasmonee_rasab.cfg:38
-msgid "Hasmonee Rasab means sergeant major; it is a company grade officers rank. They intensively train their subordinate groups in heavy active field-duty."
+msgid "Hasmonee Rasab means sergeant major; it is a company grade officers rank. They intensively train and accompany their platoon in heavy active field-duty, making them the first of the best armies in wesnoth."
 msgstr ""
 
 #. [unit_type]: id=hasmonee_seren, race=ivrim
@@ -290,7 +308,7 @@ msgstr ""
 
 #. [unit_type]: id=hasmonee_seren, race=ivrim
 #: ./Era_Ivrim/units/ivrim/a3_hasmonee_seren.cfg:41
-msgid "Hasmonean Seren translates as captain; it is a company grade officers rank. They are stratecic field operators and leaders of smaller platoons in battle."
+msgid "Hasmonean Seren translates as captain; it is a company grade officers rank. They are stratecic field operators and leaders of smaller companies in battle."
 msgstr ""
 
 #. [unit_type]: id=levite, race=ivrim
@@ -299,17 +317,17 @@ msgid "Levite Rasan"
 msgstr ""
 
 #. [unit_type]: id=levite, race=ivrim
-#: ./Era_Ivrim/units/ivrim/f1_levite.cfg:41
+#: ./Era_Ivrim/units/ivrim/f1_levite.cfg:40
 msgid "A Levite Rasan is a field grade officers rank,  rasan meaning major. Levite Majors are stiff-necked defenders of the Ivrim homelands. With extensive training in the arts of defensive combat, Levite rasans become steadfast against attacks. They also serve as temple-guards. A special mental ability of them is the art to call a scout bird, called Off HaChol. The ones with leadership abilities can choose the higher leadership position in the general officers ranks. Others still can choose the spiritual path of serving by scripture study as Poseks."
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Era_Ivrim/units/ivrim/f1_levite.cfg:49 ./Era_Ivrim/units/ivrim/f2a_levite_saal.cfg:49 ./Era_Ivrim/units/ivrim/f2b_levite_taal.cfg:50 ./Era_Ivrim/units/ivrim/f3a_levite_alam.cfg:50 ./Era_Ivrim/units/ivrim/f3b_levite_aluf.cfg:56
+#: ./Era_Ivrim/units/ivrim/f1_levite.cfg:48 ./Era_Ivrim/units/ivrim/f2a_levite_saal.cfg:48 ./Era_Ivrim/units/ivrim/f2b_levite_taal.cfg:49 ./Era_Ivrim/units/ivrim/f3a_levite_alam.cfg:49 ./Era_Ivrim/units/ivrim/f3b_levite_aluf.cfg:55
 msgid "bronze spear"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Era_Ivrim/units/ivrim/f1_levite.cfg:60 ./Era_Ivrim/units/ivrim/f2a_levite_saal.cfg:60 ./Era_Ivrim/units/ivrim/f2b_levite_taal.cfg:61 ./Era_Ivrim/units/ivrim/f3a_levite_alam.cfg:61 ./Era_Ivrim/units/ivrim/f3b_levite_aluf.cfg:67
+#: ./Era_Ivrim/units/ivrim/f1_levite.cfg:59 ./Era_Ivrim/units/ivrim/f2a_levite_saal.cfg:59 ./Era_Ivrim/units/ivrim/f2b_levite_taal.cfg:60 ./Era_Ivrim/units/ivrim/f3a_levite_alam.cfg:60 ./Era_Ivrim/units/ivrim/f3b_levite_aluf.cfg:66
 msgid "bronze javelin"
 msgstr ""
 
@@ -319,7 +337,7 @@ msgid "Levite Sa'al"
 msgstr ""
 
 #. [unit_type]: id=levite_saal, race=ivrim
-#: ./Era_Ivrim/units/ivrim/f2a_levite_saal.cfg:41
+#: ./Era_Ivrim/units/ivrim/f2a_levite_saal.cfg:40
 msgid "A Levite Sa'al is a superb defender of the homeland. Sa'al translates as Lieutenant Colonel, it is a field grade officers rank. With extensive studies in the arts of stratecic combat, Majors have good steadfast abilities and train the groups. A special mental ability of them is the art to call a scout bird, called Off HaChol."
 msgstr ""
 
@@ -329,7 +347,7 @@ msgid "Levite Ta'al"
 msgstr ""
 
 #. [unit_type]: id=levite_taal, race=ivrim
-#: ./Era_Ivrim/units/ivrim/f2b_levite_taal.cfg:42
+#: ./Era_Ivrim/units/ivrim/f2b_levite_taal.cfg:41
 msgid "A great guardian of important positions is the Tat aluf (Ta'al) meaning Brigadier-general. He is already serving in the general officers ranks of the ivrim defense forces (idf), due to the silent but imposing presence and aura of leadership. A special mental ability of them is the art to call a scout bird, called Off HaChol."
 msgstr ""
 
@@ -339,7 +357,7 @@ msgid "Levite Alam"
 msgstr ""
 
 #. [unit_type]: id=levite_alam, race=ivrim
-#: ./Era_Ivrim/units/ivrim/f3a_levite_alam.cfg:42
+#: ./Era_Ivrim/units/ivrim/f3a_levite_alam.cfg:41
 msgid "Levite Alam translates as Colonel, it is a field grade officers rank. They are junior generals and staunch defenders of the Ivrim homelands. With stout hearts, and stiff-necked they will steadfastly hold ground no matter what. A special mental ability of them is the art to call a scout bird, called Off HaChol."
 msgstr ""
 
@@ -349,7 +367,7 @@ msgid "Levite Aluf"
 msgstr ""
 
 #. [unit_type]: id=levite_aluf, race=ivrim
-#: ./Era_Ivrim/units/ivrim/f3b_levite_aluf.cfg:49
+#: ./Era_Ivrim/units/ivrim/f3b_levite_aluf.cfg:48
 msgid "An Aluf is a Major general in the general officers ranks of the ivrim defense forces. He is commanding general of the defense forces and is the commander of the temple-guards. A special mental ability of them is the art to call a scout bird, called Off HaChol."
 msgstr ""
 
@@ -364,23 +382,13 @@ msgid "A Kohen is a spiritual leader-figure in peace and war. This inspiring uni
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Era_Ivrim/units/ivrim/f4_kohen.cfg:55 ./Era_Ivrim/units/ivrim/f5_kohen_gadol.cfg:50
+#: ./Era_Ivrim/units/ivrim/f4_kohen.cfg:56
 msgid "warhammer"
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Era_Ivrim/units/ivrim/f4_kohen.cfg:66 ./Era_Ivrim/units/ivrim/f5_kohen_gadol.cfg:61
+#: ./Era_Ivrim/units/ivrim/f4_kohen.cfg:68
 msgid "thrown small bronze hammer"
-msgstr ""
-
-#. [unit_type]: id=kohen_gadol, race=ivrim
-#: ./Era_Ivrim/units/ivrim/f5_kohen_gadol.cfg:8
-msgid "HaKohen HaMashiach"
-msgstr ""
-
-#. [unit_type]: id=kohen_gadol, race=ivrim
-#: ./Era_Ivrim/units/ivrim/f5_kohen_gadol.cfg:10
-msgid "The Kohen HaMashiach is the great leader in peace and in times of war. This inspiring unit is the highest leader, an ivrim one of it's own kind."
 msgstr ""
 
 #. [unit_type]: id=rav, race=ivrim
@@ -393,7 +401,7 @@ msgstr ""
 msgid ""
 "Rebbis (rav) normally do not fight in the military. The practice and learning of scriptures is on of their endeavors. For they love to learn, they can hide quite well in cities.\n"
 "\n"
-"However, they profess the combat system of the Ivrim nation, called Abir-Qesheth, qesheth meaning (rain)bow. Its practitioners profess a deep, spiritual commitment to the scriptures, living by authentic laws. They walk the ultimate path of justice and righteousness. All their ways are peaceful in observance of divineinformation, which transforms a human being into a real mentsch."
+"However, they profess the combat system of the Ivrim nation, called Abir-Qesheth, qesheth meaning (rain)bow. Its practitioners profess a deep, spiritual commitment to the scriptures. They walk the ultimate path of justice and righteousness. All their ways are peaceful in observance of divineinformation, which transforms a human being into a real mentsch."
 msgstr ""
 
 #. [unit_type]: id=posek, race=ivrim
@@ -413,7 +421,7 @@ msgstr ""
 
 #. [unit_type]: id=abir, race=ivrim
 #: ./Era_Ivrim/units/ivrim/h2b_abir.cfg:43
-msgid "An Abir, meaning knight, must undertake intense practice and learning of martial arts and scriptures. Some Abirs have harnessed higher divineinformation and the ancient warrior art of the Abir-Qesheth warrior tradition and join their bretheren in battle as more active combattands."
+msgid "An Abir, meaning knight, must undertake intense practice and learning of martial arts and scriptures. Some Abirs have harnessed higher divineinformation and the ancient art of the Abir-Qesheth warrior tradition and join their bretheren in battle as more active combattands."
 msgstr ""
 
 #. [unit_type]: id=gaon, race=ivrim
